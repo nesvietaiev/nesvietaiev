@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mykola Nesvietaiev
-- 👀 I’m interested in job offer on position trainee/junior ruby developer 
-- 🌱 I’m currently learning Ruby/RoR
+- 👀 I’m interested in job offer on position trainee/junior ruby developer, Front End. 
+- 🌱 I’m currently learning Ruby/RoR, Front End.
 - 📫 How to reach me: email: nesvietaiev@gmail.com
 
 <!---
